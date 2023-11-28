@@ -23,12 +23,17 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+// import starbucks from "./company/starbucks.png";
+import himatika from "./company/himatika.png";
+import unija from "./company/unija.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+// import carrent from "./carrent.png";
+// import jobit from "./jobit.png";
+// import tripguide from "./tripguide.png";
+import promptopia from "./promptopia.png";
+import memories from "./memories.png";
+
+import myresume from "./cv/resume-muhammadaliakbar.pdf";
 
 export {
   logo,
@@ -54,9 +59,9 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  unija,
+  promptopia,
+  memories,
+  himatika,
+  myresume,
 };
