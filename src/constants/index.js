@@ -1,4 +1,4 @@
-import {mobile,backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git, figma, meta, himatika, unija, shopify, threejs, promptopia, memories } from "../assets";
+import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git, figma, meta, himatika, unija, shopify, threejs, promptopia, admingudang } from "../assets";
 
 export const navLinks = [
   {
@@ -96,7 +96,7 @@ const experiences = [
       "Menjaga saluran komunikasi yang efektif di antara anggota, baik melalui media sosial, surat elektronik, atau pertemuan rutin.",
       "Meningkatkan rasa kebersamaan melalui kegiatan sosial, seperti acara kebersamaan atau retret anggota.",
       "Pelaksanaan proyek-proyek internal yang berhubungan dengan Teknik Informatika dan pemantauan dan evaluasi kemajuan proyek-proyek tersebut.",
-      "Perencanaan dan pelaksanaan acara internal seperti seminar, workshop, dan kegiatan lainnya."
+      "Perencanaan dan pelaksanaan acara internal seperti seminar, workshop, dan kegiatan lainnya.",
     ],
   },
   {
@@ -105,11 +105,7 @@ const experiences = [
     icon: unija,
     iconBg: "#E6DEDD",
     date: "Agustus 2023 - Sekarang",
-    points: [
-      "Membantu mahasiswa dengan masalah teknis dan perangkat lunak.",
-      "Pemeliharaan perangkat keras dan perangkat lunak laboratorium.",
-      "Persiapan lab sebelum praktikum atau kelas.",
-    ],
+    points: ["Membantu mahasiswa dengan masalah teknis dan perangkat lunak.", "Pemeliharaan perangkat keras dan perangkat lunak laboratorium.", "Persiapan lab sebelum praktikum atau kelas."],
   },
   // {
   //   title: "Web Developer",
@@ -183,30 +179,28 @@ const projects = [
     ],
     image: promptopia,
     source_code_link: "https://github.com/Alyyy07/project_promptopia",
+    project_link: "https://project-promptopia-three-zeta.vercel.app/",
   },
   {
-    name: "Memories",
-    description: "ini adalah aplikasi media sosial sederhana yang memungkinkan pengguna memposting peristiwa menarik yang terjadi dalam hidup mereka.",
+    name: "Dashboard Gudang",
+    description: "Web-based platform yang memungkinkan admin gudang untuk mengelola data barang masuk dan keluar, serta mengelola data barang yang ada di gudang.",
     tags: [
       {
-        name: "react",
+        name: "bootstrap",
         color: "blue-text-gradient",
       },
       {
-        name: "nodejs",
+        name: "php",
         color: "green-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "mysql",
         color: "pink-text-gradient",
       },
-      {
-        name: "expressjs",
-        color: "green-text-gradient",
-      },
     ],
-    image: memories,
+    image: admingudang,
     source_code_link: "https://github.com/Alyyy07/memories-project-frontend",
+    project_link: "https://alyakbar07.000webhostapp.com/",
   },
   // {
   //   name: "Trip Guide",

@@ -31,7 +31,7 @@ import unija from "./company/unija.png";
 // import jobit from "./jobit.png";
 // import tripguide from "./tripguide.png";
 import promptopia from "./promptopia.png";
-import memories from "./memories.png";
+import admingudang from "./admingudang.png";
 
 import myresume from "./cv/resume-muhammadaliakbar.pdf";
 
@@ -61,7 +61,7 @@ export {
   shopify,
   unija,
   promptopia,
-  memories,
+  admingudang,
   himatika,
   myresume,
 };
